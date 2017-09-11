@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 73475c3483fc3bb4fba1d67ec0f6622c
+timeCreated: 1503773553
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: root
+    100004: root 1
+    100006: root 10
+    100008: root 11
+    100010: root 12
+    100012: root 13
+    100014: root 14
+    100016: root 15
+    100018: root 16
+    100020: root 17
+    100022: root 2
+    100024: root 3
+    100026: root 4
+    100028: root 5
+    100030: root 6
+    100032: root 7
+    100034: root 8
+    100036: root 9
+    400000: //RootNode
+    400002: root
+    400004: root 1
+    400006: root 10
+    400008: root 11
+    400010: root 12
+    400012: root 13
+    400014: root 14
+    400016: root 15
+    400018: root 16
+    400020: root 17
+    400022: root 2
+    400024: root 3
+    400026: root 4
+    400028: root 5
+    400030: root 6
+    400032: root 7
+    400034: root 8
+    400036: root 9
+    2300000: root
+    2300002: root 1
+    2300004: root 10
+    2300006: root 11
+    2300008: root 12
+    2300010: root 13
+    2300012: root 14
+    2300014: root 15
+    2300016: root 16
+    2300018: root 17
+    2300020: root 2
+    2300022: root 3
+    2300024: root 4
+    2300026: root 5
+    2300028: root 6
+    2300030: root 7
+    2300032: root 8
+    2300034: root 9
+    3300000: root
+    3300002: root 1
+    3300004: root 10
+    3300006: root 11
+    3300008: root 12
+    3300010: root 13
+    3300012: root 14
+    3300014: root 15
+    3300016: root 16
+    3300018: root 17
+    3300020: root 2
+    3300022: root 3
+    3300024: root 4
+    3300026: root 5
+    3300028: root 6
+    3300030: root 7
+    3300032: root 8
+    3300034: root 9
+    4300000: root
+    4300002: root
+    4300004: root
+    4300006: root
+    4300008: root
+    4300010: root
+    4300012: root
+    4300014: root
+    4300016: root
+    4300018: root
+    4300020: root
+    4300022: root
+    4300024: root
+    4300026: root
+    4300028: root
+    4300030: root
+    4300032: root
+    4300034: root
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
